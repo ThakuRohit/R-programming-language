@@ -1,0 +1,1 @@
+Some additional and inportant codes which help to understanding the structure of R-language codes in R-Studio
