@@ -1,0 +1,1 @@
+Importing palmerpenguins dataset, which is pre-stored in R database. Visualizing the data of different species of penguins with the help of graph.
