@@ -1,0 +1,1 @@
+Plotting the different cities hotel from hotel booking dataset.
