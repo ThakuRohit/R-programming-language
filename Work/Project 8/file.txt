@@ -1,0 +1,1 @@
+Using Quartet library, plotting points and visualizing the data using scatter plot.
