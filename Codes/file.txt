@@ -1,1 +1,0 @@
-All the mentioned codes are run in R Studio. Kindly run codes in R Studio if you have any problem in another framework.
