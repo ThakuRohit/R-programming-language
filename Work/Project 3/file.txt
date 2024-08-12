@@ -1,0 +1,1 @@
+Importing hotel booking dataset and filtering and ploting the cities mentioned in dataset
