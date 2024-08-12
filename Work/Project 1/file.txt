@@ -1,0 +1,1 @@
+Importing hotel boking dataset and filtering out the information. Finally visualizing the data through graph. 
