@@ -1,0 +1,1 @@
+Importing palmerpenguin library and using diamonds dataset to visualize the species of penguins and form of cutting in diamonds.
